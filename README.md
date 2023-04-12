@@ -20,8 +20,8 @@ This is a solution to the [Results summary component challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Solution URL](https://github.com/KrishnaVishwakarma1595/product-preview-card)
-- Live Site URL: [Live URL](https://krishnavishwakarma1595.github.io/product-preview-card/)
+- Solution URL: [Solution URL](https://github.com/KrishnaVishwakarma1595/result-summary-component)
+- Live Site URL: [Live URL](https://krishnavishwakarma1595.github.io/result-summary-component/)
 
 ## My process
 
